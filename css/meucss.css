@@ -140,8 +140,130 @@ body {
     box-shadow:         1px 1px 15px 0px rgba(50, 50, 50, 0.36); 
 }
 
-.russia {
-    position: relative; 
-    width: 10%;
-    margin-top: -4%;
+#russia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/16/Russia-icon.png');
+}
+
+#arabia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Saudi-Arabia-Flag-icon.png');
+}
+
+#egito {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Egypt-Flag-icon.png');
+}
+
+#uruguai {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Uruguay-Flag-icon.png');
+}
+
+#portugal {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Portugal-Flag-icon.png');
+}
+
+#espanha {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Spain-Flag-icon.png');
+}
+
+#marrocos {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Morocco-Flag-icon.png');
+}
+
+#ira {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Iran-Flag-icon.png');
+}
+
+#franca {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/France-Flag-icon.png');
+}
+
+#australia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Australia-Flag-icon.png');
+}
+
+#peru {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Peru-Flag-icon.png');
+}
+
+#dinamarca {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Denmark-Flag-icon.png');
+}
+
+#argentina {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Argentina-Flag-icon.png');
+}
+
+#islandia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Iceland-Flag-icon.png');
+}
+
+#croacia {
+    list-style-image: url('http://icons.iconarchive.com/icons/wikipedia/flags/16/HR-Croatia-Flag-icon.png');
+}
+
+#nigeria {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Nigeria-Flag-icon.png');
+}
+
+#brasil {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Brazil-Flag-icon.png');
+}
+
+#suica {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Switzerland-Flag-icon.png');
+}
+
+#costa {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Costa-Rica-Flag-icon.png');
+}
+
+#servia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Serbia-Flag-icon.png');
+}
+
+#alemanha {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Germany-Flag-icon.png');
+}
+
+#mexico {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Mexico-Flag-icon.png');
+}
+
+#suecia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Sweden-Flag-icon.png');
+}
+
+#coreia {
+    list-style-image: url('http://icons.iconarchive.com/icons/icondrawer/flags/16/South-Korea-icon.png');
+}
+
+#belgica {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Belgium-Flag-icon.png');
+}
+
+#panama {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Panama-Flag-icon.png');
+}
+
+#tunisia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Tunisia-Flag-icon.png');
+}
+
+#inglaterra {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/England-Flag-icon.png');
+}
+
+#polonia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Poland-Flag-icon.png');
+}
+
+#senegal {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Senegal-Flag-icon.png');
+}
+
+#colombia {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Colombia-Flag-icon.png');
+}
+
+#japao {
+    list-style-image: url('http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/16/Japan-Flag-icon.png');
 }
